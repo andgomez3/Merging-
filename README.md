@@ -1,3 +1,3 @@
-we're learning how to merge 
+REMOTE
 to be continued...
 bye
